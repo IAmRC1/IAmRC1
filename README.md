@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align='center'> Hi there <img src="https://user-images.githubusercontent.com/53148314/120832912-d7576900-c569-11eb-8de9-71da3412c259.gif" height="30">, I'm Rishabh Singh</h1>
+<h1 align='center'> Hi there <img src="https://user-images.githubusercontent.com/53148314/120832912-d7576900-c569-11eb-8de9-71da3412c259.gif" height="30">, This is  Rishabh</h1>
 
 <p align='center'>
-  I am working as a Software Developer at <b>Agicent Technologies Pvt. Ltd.</b>. 
+  I am working as a Software Developer at <b>Webile Apps Pvt. Ltd.</b>. 
 </p>
 
 <p align='center'>
