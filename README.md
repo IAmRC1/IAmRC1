@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 <h1 align='center'> Hi there <img src="https://user-images.githubusercontent.com/53148314/120832912-d7576900-c569-11eb-8de9-71da3412c259.gif" height="30">, This is  Rishabh</h1>
 
 <p align='center'>
-  I am working as a Software Developer at <b>Webile Apps Pvt. Ltd.</b>. 
+  I am working as a Software Developer at <b>Webile Apps Pvt. Ltd., Hyderabad</b>. 
 </p>
 
 <p align='center'>
   <a href="https://gist.github.com/iamrc1"><img src="https://img.shields.io/badge/gist-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/iamrc1"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.twitter.com/iamrc1"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/iamrc1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:rishabhcena1@gmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=iamrc1&countColor=%237B1E7A" /></a>
@@ -34,6 +34,5 @@ Here are some ideas to get you started:
 ## <a href="https://github.com/iamrc1?tab=repositories"><img src="https://img.shields.io/badge/I'm working on-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <p align='center'>
-<a href="https://github.com/iamrc1/hrms-project-backend"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamrc1&repo=hrms-project-backend&title_color=fff&icon_color=F4D03E&text_color=9f9f9f&bg_color=0d1117&border_color=30363D" /></a>
-  <a href="https://github.com/iamrc1/hrms-project-frontend"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamrc1&repo=hrms-project-frontend&title_color=fff&icon_color=F4D03E&text_color=9f9f9f&bg_color=0d1117&border_color=30363D"/></a>
+<a href="https://github.com/iamrc1/hrms-project-backend"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamrc1&repo=ours_community_assignment&title_color=fff&icon_color=F4D03E&text_color=9f9f9f&bg_color=0d1117&border_color=30363D" /></a>
 </p>
