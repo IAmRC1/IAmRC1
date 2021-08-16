@@ -23,10 +23,8 @@ Here are some ideas to get you started:
   <a href="https://gist.github.com/iamrc1"><img src="https://img.shields.io/badge/gist-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.twitter.com/iamrc1"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/iamrc1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:rishabhcena1@gmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=iamrc1&countColor=%237B1E7A" /></a>
 </p>
-
 
 <a href="https://github.com/iamrc1"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrc1&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&icon_color=F4D03E&hide_border=true" /></a>
 <a href="https://github.com/iamrc1"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrc1&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&hide_border=true&layout=compact&langs_count=10" /></a>
@@ -34,5 +32,6 @@ Here are some ideas to get you started:
 ## <a href="https://github.com/iamrc1?tab=repositories"><img src="https://img.shields.io/badge/I'm working on-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <p align='center'>
-<a href="https://github.com/iamrc1/hrms-project-backend"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamrc1&repo=ours_community_assignment&title_color=fff&icon_color=F4D03E&text_color=9f9f9f&bg_color=0d1117&border_color=30363D" /></a>
+<a href="https://github.com/iamrc1/ours_community_assignment"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamrc1&repo=ours_community_assignment&title_color=fff&icon_color=F4D03E&text_color=9f9f9f&bg_color=0d1117&border_color=30363D" /></a>
+<a href="https://github.com/iamrc1/news-it"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamrc1&repo=news-it&title_color=fff&icon_color=F4D03E&text_color=9f9f9f&bg_color=0d1117&border_color=30363D" /></a>
 </p>
