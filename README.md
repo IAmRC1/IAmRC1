@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 ## <a href="https://github.com/iamrc1?tab=repositories"><img src="https://img.shields.io/badge/I'm working on-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <p align='center'>
-<a href="https://github.com/iamrc1/ours_community_assignment"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamrc1&repo=ours_community_assignment&title_color=fff&icon_color=F4D03E&text_color=9f9f9f&bg_color=0d1117&border_color=30363D" /></a>
+<a href="https://github.com/iamrc1/quizart_backend"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamrc1&repo=ours_community_assignment&title_color=fff&icon_color=F4D03E&text_color=9f9f9f&bg_color=0d1117&border_color=30363D" /></a>
 <a href="https://github.com/iamrc1/news-it"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamrc1&repo=news-it&title_color=fff&icon_color=F4D03E&text_color=9f9f9f&bg_color=0d1117&border_color=30363D" /></a>
 </p>
