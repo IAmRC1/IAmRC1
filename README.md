@@ -12,10 +12,7 @@
 - 😄 Pronouns: ***he, him***
 
 [<img src='https://img.shields.io/badge/gist-100000?style=for-the-badge&logo=github&logoColor=white' />](gist.github.com/iamrc1)
-[<img src='https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white' />](twitter.com/iamrc1)
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' />](linkedin.com/in/iamrc1/)
-[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />](mailto:rishabhcena1@gmail.com)
-<img src='https://estruyf-github.azurewebsites.net/api/VisitorHit?user=iamrc1&countColor=%237B1E7A' />
 
 #### SHOWCASE (more to be added...)
 [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamrc1&repo=news-it&title_color=fff&icon_color=F4D03E&text_color=9f9f9f&bg_color=0d1117&border_color=30363D" />](https://github.com/iamrc1/news-it)
